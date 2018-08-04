@@ -1,0 +1,11 @@
+/Users/sbhadra1/Downloads/asp-dotnet-core-api-building-first/03/demos/vs2017_core2/end/CityInfo/src/CityInfo.API/bin/Debug/netcoreapp2.0/CityInfo.API.deps.json
+/Users/sbhadra1/Downloads/asp-dotnet-core-api-building-first/03/demos/vs2017_core2/end/CityInfo/src/CityInfo.API/bin/Debug/netcoreapp2.0/CityInfo.API.runtimeconfig.json
+/Users/sbhadra1/Downloads/asp-dotnet-core-api-building-first/03/demos/vs2017_core2/end/CityInfo/src/CityInfo.API/bin/Debug/netcoreapp2.0/CityInfo.API.runtimeconfig.dev.json
+/Users/sbhadra1/Downloads/asp-dotnet-core-api-building-first/03/demos/vs2017_core2/end/CityInfo/src/CityInfo.API/bin/Debug/netcoreapp2.0/CityInfo.API.dll
+/Users/sbhadra1/Downloads/asp-dotnet-core-api-building-first/03/demos/vs2017_core2/end/CityInfo/src/CityInfo.API/bin/Debug/netcoreapp2.0/CityInfo.API.pdb
+/Users/sbhadra1/Downloads/asp-dotnet-core-api-building-first/03/demos/vs2017_core2/end/CityInfo/src/CityInfo.API/obj/Debug/netcoreapp2.0/CityInfo.API.csprojResolveAssemblyReference.cache
+/Users/sbhadra1/Downloads/asp-dotnet-core-api-building-first/03/demos/vs2017_core2/end/CityInfo/src/CityInfo.API/obj/Debug/netcoreapp2.0/CityInfo.API.csproj.CoreCompileInputs.cache
+/Users/sbhadra1/Downloads/asp-dotnet-core-api-building-first/03/demos/vs2017_core2/end/CityInfo/src/CityInfo.API/obj/Debug/netcoreapp2.0/CityInfo.API.AssemblyInfoInputs.cache
+/Users/sbhadra1/Downloads/asp-dotnet-core-api-building-first/03/demos/vs2017_core2/end/CityInfo/src/CityInfo.API/obj/Debug/netcoreapp2.0/CityInfo.API.AssemblyInfo.cs
+/Users/sbhadra1/Downloads/asp-dotnet-core-api-building-first/03/demos/vs2017_core2/end/CityInfo/src/CityInfo.API/obj/Debug/netcoreapp2.0/CityInfo.API.dll
+/Users/sbhadra1/Downloads/asp-dotnet-core-api-building-first/03/demos/vs2017_core2/end/CityInfo/src/CityInfo.API/obj/Debug/netcoreapp2.0/CityInfo.API.pdb
