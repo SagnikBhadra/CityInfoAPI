@@ -12539,11 +12539,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/sbhadra1/Downloads/asp-dotnet-core-api-building-first/03/demos/vs2017_core2/end/CityInfo/src/CityInfo.API/CityInfo.API.csproj",
+      "projectUniqueName": "/Users/sbhadra1/Documents/GitHub/CityInfoAPI/CityInfo.API/CityInfo.API.csproj",
       "projectName": "CityInfo.API",
-      "projectPath": "/Users/sbhadra1/Downloads/asp-dotnet-core-api-building-first/03/demos/vs2017_core2/end/CityInfo/src/CityInfo.API/CityInfo.API.csproj",
+      "projectPath": "/Users/sbhadra1/Documents/GitHub/CityInfoAPI/CityInfo.API/CityInfo.API.csproj",
       "packagesPath": "/Users/sbhadra1/.nuget/packages/",
-      "outputPath": "/Users/sbhadra1/Downloads/asp-dotnet-core-api-building-first/03/demos/vs2017_core2/end/CityInfo/src/CityInfo.API/obj",
+      "outputPath": "/Users/sbhadra1/Documents/GitHub/CityInfoAPI/CityInfo.API/obj",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
